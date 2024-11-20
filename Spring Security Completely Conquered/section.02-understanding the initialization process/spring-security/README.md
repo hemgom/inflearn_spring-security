@@ -14,3 +14,4 @@
 - [Section 2-1 : 의존성 추가 및 기본 설정 적용](https://development-diary-for-me.tistory.com/203)
 - [Section 2-2 : SecurityBuilder 와 SecurityConfigurer](https://development-diary-for-me.tistory.com/204)
 - [Section 2-3 : HttpSecurity 와 WebSecurity](https://development-diary-for-me.tistory.com/205)
+- [Section 2-4 : DelegatingFilterProxy 와 FilterChainProxy](https://development-diary-for-me.tistory.com/206)

@@ -1,0 +1,6 @@
+spring:
+  security:
+    user:
+      name: user
+      password: "!testPW24"
+      roles: USER

@@ -15,3 +15,4 @@
 - [Section 2-2 : SecurityBuilder 와 SecurityConfigurer](https://development-diary-for-me.tistory.com/204)
 - [Section 2-3 : HttpSecurity 와 WebSecurity](https://development-diary-for-me.tistory.com/205)
 - [Section 2-4 : DelegatingFilterProxy 와 FilterChainProxy](https://development-diary-for-me.tistory.com/206)
+- [Section 2-5 : 사용자 정의 보안 설정하기](https://development-diary-for-me.tistory.com/207)
